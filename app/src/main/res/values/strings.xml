@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">YukinonColorPicker</string>
+    <string name="output_data">output data</string>
 </resources>
